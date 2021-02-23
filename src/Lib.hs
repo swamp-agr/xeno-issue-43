@@ -20,6 +20,3 @@ run = do
     go (ok, errors) resp = case resp of
       Left e  -> (ok, e : errors)
       Right r -> (r : ok, errors)
-
-    generateSamples src total count = BS.take (total - count) src
-
