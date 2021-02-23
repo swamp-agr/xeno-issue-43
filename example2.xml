@@ -107,7 +107,7 @@
 <Extension type="isClickable"><![CDATA[0]]></Extension>
 <Extension type="skipAd"><![CDATA[https://example.com/event?hash=5d095949b9b1e54d&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=hssudcb&x1=y1&x21=y21&x12=y12]]></Extension>
 <Extension type="addClick"><![CDATA[https://example.com/event?hash=39dde19f24f68955&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=jrcyjtu&x1=y1&x21=y21&x12=y12]]></Extension>
-<Extension type="adriverPixel"><![CDATA[]]></Extension>
+<Extension type="somePixel"><![CDATA[]]></Extension>
 <Extension type="exclusive"><![CDATA[0]]></Extension>
 <Extension type="closeAct"><![CDATA[no]]></Extension>
 </Extensions>
