@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<VAST version="2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://specs.example.com/uploads/vast.xsd">
+<Ad id="1564517-4157832">
+<InLine>
+<AdSystem>Example.Com</AdSystem>
+<AdTitle>video</AdTitle>
+<Description>video ad</Description>
+<Error><![CDATA[https://example.com/event?hash=20c6bdacf5ad070f&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=ebhyrug&x1=y1&x21=y21&x12=y12]]></Error>
+<Impression id="Example"><![CDATA[https://example.com/event?hash=01b702ee2cde6ca0&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=nojmxbo&x1=y1&x21=y21&x12=y12]]></Impression>
+<Impression id="ThirdParty"><![CDATA[https://example.com/transparent.gif]]></Impression>
+<Impression id="Thirdparty"><![CDATA[]]></Impression>
+<Impression id="Thirdparty"><![CDATA[]]></Impression>
+<Impression id="ThirdParty"><![CDATA[]]></Impression>
+<Creatives>
+<Creative>
+<Linear skipoffset="00:05:00">
+<Duration>00:00:20</Duration>
+<TrackingEvents>
+<Tracking event="creativeView"><![CDATA[https://example.com/event?hash=990e219107dc852a&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=ncezbnn&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="start"><![CDATA[https://example.com/event?hash=fe143a9255b00088&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=htyjzvc&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="start"><![CDATA[https://example.com/cgi-bin/event.cgi?sid=1&bt=76&tuid=-1&ad=716768&pid=3171979&bid=7104477&bn=7104477&type=2&custom=start&rnd=1697131408]]></Tracking>
+<Tracking event="midpoint"><![CDATA[https://example.com/event?hash=35addff5524bb1ae&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=jrcmtve&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="midpoint"><![CDATA[https://example.com/cgi-bin/event.cgi?sid=1&bt=76&tuid=-1&ad=716768&pid=3171979&bid=7104477&bn=7104477&type=3&custom=midpoint&rnd=1697131408]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[https://example.com/event?hash=5acd6cd7d4873bc6&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=htulahw&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="firstQuartile"><![CDATA[https://example.com/cgi-bin/event.cgi?sid=1&bt=76&tuid=-1&ad=716768&pid=3171979&bid=7104477&bn=7104477&type=4&custom=firstQuartile&rnd=1697131408]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[https://example.com/event?hash=a4f1a0d502a181a1&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=dkguayf&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="thirdQuartile"><![CDATA[https://example.com/cgi-bin/event.cgi?sid=1&bt=76&tuid=-1&ad=716768&pid=3171979&bid=7104477&bn=7104477&type=5&custom=thirdQuartile&rnd=1697131408]]></Tracking>
+<Tracking event="complete"><![CDATA[https://example.com/event?hash=25b26fab357af0d6&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=gxdttop&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="complete"><![CDATA[]]></Tracking>
+<Tracking event="complete"><![CDATA[https://example.com/cgi-bin/event.cgi?sid=1&bt=76&tuid=-1&ad=716768&pid=3171979&bid=7104477&bn=7104477&type=6&custom=complete&rnd=1697131408]]></Tracking>
+<Tracking event="mute"><![CDATA[https://example.com/event?hash=e3fa871a31422b87&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=nsfpxvm&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="unmute"><![CDATA[https://example.com/event?hash=4ac71eb77a27d717&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=iomntmn&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="pause"><![CDATA[https://example.com/event?hash=fa69c3cd30366dc0&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=mwnobbw&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="rewind"><![CDATA[https://example.com/event?hash=a0811b8103ee5c06&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=nvhiccf&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="resume"><![CDATA[https://example.com/event?hash=96fb5c6c2b2dd89d&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=kkwldyu&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="fullscreen"><![CDATA[https://example.com/event?hash=d1ab5c2eddff8b2c&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=nhuuwyk&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="expand"><![CDATA[https://example.com/event?hash=0d06b3e842dbb2df&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=iqgqqgy&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="collapse"><![CDATA[https://example.com/event?hash=775c3e04b6795d67&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=ejkiuyg&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="acceptInvitation"><![CDATA[https://example.com/event?hash=0912c981d7b9998d&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=dlzkhyc&x1=y1&x21=y21&x12=y12]]></Tracking>
+<Tracking event="close"><![CDATA[https://example.com/event?hash=14beba0be483f0f4&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=oenzml&x1=y1&x21=y21&x12=y12]]></Tracking>
+</TrackingEvents>
+<AdParameters></AdParameters>
+<VideoClicks>
+<ClickThrough><![CDATA[]]></ClickThrough>
+</VideoClicks>
+<MediaFiles>
+<MediaFile type="video/webm" width="426" height="240" bitrate="609" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_240p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="854" height="480" bitrate="2257" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_480p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="1280" height="720" bitrate="4634" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_720p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="640" height="360" bitrate="1057" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_360p.webm]]>
+</MediaFile>
+<MediaFile type="video/webm" width="1920" height="1080" bitrate="7801" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_1080p.webm]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="426" height="240" bitrate="564" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_240p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="1280" height="720" bitrate="5063" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_720p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="854" height="480" bitrate="2514" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_480p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="1920" height="1080" bitrate="7973" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_1080p.mp4]]>
+</MediaFile>
+<MediaFile type="video/mp4" width="640" height="360" bitrate="1046" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_360p.mp4]]>
+</MediaFile>
+<MediaFile type="video/x-flv" width="426" height="240" bitrate="554" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_240p.flv]]>
+</MediaFile>
+<MediaFile type="video/x-flv" width="640" height="360" bitrate="1028" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_360p.flv]]>
+</MediaFile>
+<MediaFile type="video/x-flv" width="1280" height="720" bitrate="4971" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_720p.flv]]>
+</MediaFile>
+<MediaFile type="video/x-flv" width="1920" height="1080" bitrate="7905" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_1080p.flv]]>
+</MediaFile>
+<MediaFile type="video/x-flv" width="854" height="480" bitrate="2489" delivery="progressive" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_480p.flv]]>
+</MediaFile>
+<MediaFile type="application/x-mpegURL" width="0" height="0" bitrate="0" delivery="streaming" isScalable="true" keepAspectRatio="true">
+  <![CDATA[https://example.com/sample/path/to/something/15131906263387971733.m3u8]]>
+</MediaFile>
+<MediaFile id="1" delivery="progressive" type="video/mp4" bitrate="" maintainAspectRatio="false" scalable="true" width="640" height="360">
+<![CDATA[https://example.com/sample/path/to/something/15131906263387971733_169_480p.mp4]]>
+</MediaFile>
+</MediaFiles>
+</Linear>
+</Creative>
+</Creatives>
+<Extensions>
+<Extension type="startTime"><![CDATA[00:00]]></Extension>
+<Extension type="skipTime"><![CDATA[00:05]]></Extension>
+<Extension type="skipTime2"><![CDATA[00:05:00]]></Extension>
+<Extension type="linkTxt"><![CDATA[перейти на сайт рекламодателя]]></Extension>
+<Extension type="isClickable"><![CDATA[0]]></Extension>
+<Extension type="skipAd"><![CDATA[https://example.com/event?hash=5d095949b9b1e54d&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=hssudcb&x1=y1&x21=y21&x12=y12]]></Extension>
+<Extension type="addClick"><![CDATA[https://example.com/event?hash=39dde19f24f68955&x26=y26&x25=y25&x13=y13&x27=y27&lts=ffwenuj&x11=y11&rqs=yf8yAAQAAADFfzVgOSPghLn4DDwGEyxe&x28=y28&x10=y10&pr=a&x3=y3&rtb-si=b&x2=y2&x28=y28&rand=jrcyjtu&x1=y1&x21=y21&x12=y12]]></Extension>
+<Extension type="adriverPixel"><![CDATA[]]></Extension>
+<Extension type="exclusive"><![CDATA[0]]></Extension>
+<Extension type="closeAct"><![CDATA[no]]></Extension>
+</Extensions>
+</InLine>
+</Ad>
+</VAST>

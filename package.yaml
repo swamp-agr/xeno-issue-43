@@ -1,0 +1,24 @@
+name:                xeno-issue
+version:             0.0.1
+license:             BSD3
+
+dependencies:
+- base >= 4.7 && < 5
+- xeno == 0.4.2
+- bytestring
+- async
+
+library:
+  source-dirs: src
+
+executables:
+  xeno-runner:
+    main: Main.hs
+    source-dirs: app
+    ghc-options:
+    - -threaded
+    - -O2
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - xeno-issue
